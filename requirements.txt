@@ -1,0 +1,4 @@
+jupyter
+scikit-image>=0.13
+opencv>=3.0
+gdal>=2.0
